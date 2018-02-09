@@ -56,6 +56,7 @@ def check_url(image_url):
         return 1
 
 
+
 if __name__ == "__main__":
 
     # URL in json format for latest wallpaper
